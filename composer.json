@@ -1,6 +1,6 @@
 {
-    "name": "abuseio/parser-dnsblbe",
-    "description": "Parser addon for handling notifications from dnsbl.be",
+    "name": "abuseio/parser-dnsblde",
+    "description": "Parser addon for handling notifications from dnsblde",
     "license": "GPL-2.0",
     "require": {
         "php": ">=5.4.0",
