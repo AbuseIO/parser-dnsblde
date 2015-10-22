@@ -2,14 +2,8 @@
 
 namespace AbuseIO\Parsers;
 
-use Ddeboer\DataImport\Reader;
-use Ddeboer\DataImport\Writer;
-use Ddeboer\DataImport\Filter;
-
 class Dnsblde extends Parser
 {
-    public $parsedMail;
-    public $arfMail;
 
     /**
      * Create a new Blocklistde instance
